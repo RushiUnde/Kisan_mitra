@@ -1,1 +1,5 @@
 /static/script.js
+minmaxscaler.pkl
+model.pkl
+Pipfile
+standscaler.pkl
